@@ -7,4 +7,10 @@ Forked from https://github.com/cenairaclub/motionmatchingreplicated
 
 -Replicated animations and motion matching
 
--Rudimentary Dyanmic Weapon Overlays (ie basic weapon system -- press 1 or 2)
+-Rudimentary Dynamic Weapon Overlays (ie basic weapon system -- press 1 or 2)
+
+-Doesn't use smoothsync
+
+### KNOWN ISSUES
+
+-Autonomous proxies seem to jitter when they are look rotating (ie when player 1 is look rotating, on player 2s screen the proxy for P1 will slightly jitter)
